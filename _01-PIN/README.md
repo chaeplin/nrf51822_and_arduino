@@ -1,5 +1,3 @@
-|![1](https://raw.githubusercontent.com/chaeplin/esp8266_and_arduino/master/_04-lcd-dust/pics/4.jpg)|![2](https://raw.githubusercontent.com/chaeplin/esp8266_and_arduino/master/_03-hx711-scale/pics/6.jpg)|
-
 ![1](./BLE400.jpg)
 ![2](./Core51822-pin.jpg)
 ![3](./rnl1.jpg)
