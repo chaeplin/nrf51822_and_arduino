@@ -2,6 +2,9 @@
 ![2](./Core51822-pin.jpg)
 ![3](./rnl1.jpg)
 ![4](./rnl2.jpg)
+![5](./IMG_5702.JPG)
+![6](./IMG_5703.JPG)
+![7](./revision.png)
 
 |pin|arduino|role|
 |---|-------|----|
