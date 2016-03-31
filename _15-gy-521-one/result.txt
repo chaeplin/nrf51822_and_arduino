@@ -1,0 +1,14 @@
+AcX = 3312 | AcY = -328 | AcZ = 15372 | Tmp = 24.48 | GyX = -355 | GyY = 162 | GyZ = -250
+AcX = 3400 | AcY = -328 | AcZ = 15456 | Tmp = 24.53 | GyX = -344 | GyY = 153 | GyZ = -208
+AcX = 3320 | AcY = -332 | AcZ = 15424 | Tmp = 24.53 | GyX = -348 | GyY = 136 | GyZ = -226
+AcX = 3396 | AcY = -320 | AcZ = 15364 | Tmp = 24.53 | GyX = -354 | GyY = 168 | GyZ = -236
+AcX = 3368 | AcY = -336 | AcZ = 15220 | Tmp = 24.44 | GyX = -371 | GyY = 172 | GyZ = -206
+AcX = 3288 | AcY = -368 | AcZ = 15284 | Tmp = 24.58 | GyX = -348 | GyY = 144 | GyZ = -229
+AcX = 3296 | AcY = -352 | AcZ = 15364 | Tmp = 24.44 | GyX = -335 | GyY = 154 | GyZ = -220
+AcX = 3356 | AcY = -312 | AcZ = 15352 | Tmp = 24.62 | GyX = -343 | GyY = 142 | GyZ = -221
+AcX = 3344 | AcY = -372 | AcZ = 15324 | Tmp = 24.53 | GyX = -351 | GyY = 153 | GyZ = -221
+AcX = 3348 | AcY = -436 | AcZ = 15512 | Tmp = 24.58 | GyX = -344 | GyY = 161 | GyZ = -215
+AcX = 3444 | AcY = -424 | AcZ = 15444 | Tmp = 24.62 | GyX = -377 | GyY = 151 | GyZ = -221
+AcX = 3432 | AcY = -336 | AcZ = 15484 | Tmp = 24.58 | GyX = -359 | GyY = 159 | GyZ = -221
+AcX = 3432 | AcY = -312 | AcZ = 15348 | Tmp = 24.53 | GyX = -347 | GyY = 162 | GyZ = -244
+AcX = 3344 | AcY = -316 | AcZ = 15436 | Tmp = 24.62 | GyX = -386 | GyY = 212 | GyZ = -202
