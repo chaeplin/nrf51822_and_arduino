@@ -1,3 +1,5 @@
+// RBL NRF51822 V1.0 16KB
+
 #include <BLE_API.h>
 
 BLE ble;
